@@ -1,4 +1,4 @@
-# OFD(Online Food Delivery) 
+# Online Food Delivery System
 It is a WEB Mini project under 2015 VTU CBCS scheme.
 
 # BACK END
