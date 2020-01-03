@@ -11,8 +11,6 @@ It is a WEB Mini project under 2015 VTU CBCS scheme.
 
 # FRONT END
 
-* USE IMAGES FOR FRONT END.
-
 * Run php files in the browser
 
 
