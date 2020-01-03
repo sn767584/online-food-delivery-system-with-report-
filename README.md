@@ -19,7 +19,7 @@ If you liked this, leave a star and fork it! :star:
 
 If you liked this and also liked my other work, be sure to follow me for more! :slightly_smiling_face:
 
-#procedure for execution of the project
+## Procedure for execution of the project
 
 1.	After Downloading this project.
 2.	Download xampp or wamp server. (see youtube for installation)
